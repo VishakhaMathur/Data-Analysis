@@ -1,2 +1,2 @@
 # Data-Analysis
-Financial stress management in Canberra
+Financial stress analysis in Canberra
